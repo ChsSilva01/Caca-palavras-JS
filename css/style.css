@@ -1,12 +1,7 @@
 .text-position{
-    padding-left: 40%;
-    color: #ff0000;
+    text-align: center;
+    color: #00087a;
 }
-/*.table{
-    border-collapse: collapse;
-    width:100px; 
-    height:10px;
-}*/
 table, th, td {
     border: 1px solid;
     background-color: #c6e98d;
@@ -27,7 +22,7 @@ table{
     top: 15%;
     position: absolute;
 }
-.wraper{
+.wraaper{
     background-image: url(Fundo.jpg);
     background-repeat: no-repeat;
     width: 100%;
