@@ -1,5 +1,6 @@
 .text-position{
-    padding-left: 30%;
+    padding-left: 40%;
+    color: #ff0000;
 }
 /*.table{
     border-collapse: collapse;
@@ -14,6 +15,7 @@ table, th, td {
 table{
     width: 75%;
     border-collapse: collapse;
+    border: 3px solid #c44343;
 }
 .seila{
   background-color: #7be028;
@@ -25,7 +27,12 @@ table{
     top: 15%;
     position: absolute;
 }
-.fundo{
+.wraper{
     background-image: url(Fundo.jpg);
     background-repeat: no-repeat;
+    width: 100%;
+    top: 0%;
+    left: 0%;
+    height: 100%;
+    position: absolute;
 }
